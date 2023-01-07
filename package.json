@@ -2,6 +2,7 @@
   "name": "cartonweb",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://penjo.github.io/cartonweb",
   "dependencies": {
     "@mui/material": "^5.10.14",
     "@testing-library/jest-dom": "^5.16.5",
